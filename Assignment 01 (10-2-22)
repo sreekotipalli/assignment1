@@ -1,0 +1,3 @@
+sno-int(input('enter student no:) sname=input('enter student name:) sgroup=input('enter student group) sl-int(input('maths marks:)) s2-int(input('physics marks:)) s3-int(input('computers marks:)) if sl> 25 and s2>=25 and s3>=25: print('pass)
+
+else: print("fail')
